@@ -1,0 +1,283 @@
+ADAC	Attitude Determination & Control 
+ADC	Analog to Digital Converter
+ADCS	Attitude Determination & Control System
+AFSK	Audio Frequency Shift Keying
+AGC	Automatic Gain Control
+AI	Artificial Intelligence
+ALCON	All Concerned
+AMCOM	AMSAT Commands (software program)	
+AMSAT	Radio Amateur Satellite Corporation
+APT	Average Power Tracking
+ASCENT	Advanced Satellite Communications and Exploration of New Technology
+ASCII	American Std Code for Info Interchange
+ASD	Acceleration Spectral Density (vibration)
+APIC	    Auxiliary Payload Integration Contractor
+APT		    Average Power Tracking (TX)
+ATP            Acceptance Test Procedure
+AU		   Astronomical Unit (~150 Million meters)
+BER		    Bit Error Rate
+BPSK          Binary Phase Shift Keying
+BMS	    Battery Management System (EPS)
+BOB		    Break Out Board
+BOL		    Beginning Of Life (on orbit)
+BPF		    Band Pass Filter
+CAC		   CubeSat Acceptance Checklist
+CAD		   Computer Aided Design
+CAN           Controller Area Networking (Bus)
+CC	CubeComputer (ADCS OBC)
+CCD	Charge Coupled Device
+C&DH	Control and Data Handling (OBC)
+CDR           Critical Design Review
+CDS	CubeSat Design Specification
+CFR	Code of Federal Regulations
+CG/M	Center of Gravity/Mass
+CIR	CubeSat Interface Review
+CIU	Central Interface Unit
+CONOPS   Concept of Operations
+COTS	   Commercial Off The Shelf
+CMD           Command
+CMOS	Complementary Metal Oxide Semiconductor (Integrated Circuit)
+CQC	Cube Quest Challenge
+CRADA	Cooperative Research and Development Agreement
+CRC`	Cyclic Redundancy Check
+CSLI	CubeSat Launch Initiative
+CSS	Coarse Sun Sensor
+CVCM	Collected Volatile Condensable Material (<0.1% Outgassing)
+CW             Continuous Wave (Morse Code)
+CXR		    (RF) Carrier
+dB               deci-Bel
+dBc             dB’s below Carrier
+dBm            dB’s relative to 1mW
+DAC		    Digital Analog Converter
+DAS		    Debris Assessment Software (NASA)
+DC              Direct Current
+DCR	    Direct Current Resistance
+DCT		    Digital Comm. Transceiver (RT-IHU)
+DITL	    Day In The Life (testing)
+DLC            Data Length Code
+DoF		    Degrees of Freedom
+DMA	    Direct Memory Access
+DR		    Dynamic Range
+DRAM	    Dynamic Random Access Memory
+DSN		    Deep Space Network	
+EAR            Export Administration Regulations
+ECAD	    Electronic Computer Aided Design
+ECC		    Error Correction Coding
+EEE		    Electrical, Electronic, Electromechanical
+EEPROM    Electrically Erasable Read Only Memory
+ELaNa	    Educational Launch of Nanosats
+EM              Engineering Model
+EMC            ElectroMagnetic Compatibility
+EMI             ElectroMagnetic Interference
+ENIG	    Electroless Nickel Immersion Gold (PCB)
+EOL	End Of Life (on orbit)
+EPS            Electrical Power System
+ESA		    European Space Agency
+ESD		    Electrostatic Discharge
+ETU		    Engineering Test Unit
+EXP		    Experiment
+EKF		    Extended Kalman Filter
+FC		    Flight Computer
+FCC            Federal Communications Commission
+FDMA	    Frequency Division Multiple Access
+FEA		    Finite Element Analysis (modeling)
+FEC		    Forward Error Correction (coding)
+FEM		    Finite Element Model
+FM               Flight Model; Frequency Modulation
+FMEA	     Failure Mode & Effects Analysis
+FoxTelem    Fox Telemetry (software program)
+FoV		    Field of View
+FPS	Functional Performance Specification
+FR-4           Glass Reinforced Epoxy Laminate PCB
+FRR		    Flight Readiness Review
+GBT		   GOLF Battery Tender
+GEO	   Geosynchronous Earth Orbit
+GEVS	   General Environmental Verification Std
+GSFC	   Goddard Space Flight Center
+GNC	   Guidance, Navigation and Control
+GND           Ground
+GPIO          General Purpose Input - Output
+GPS            Global Positioning System
+GSE	Ground Support Equipment
+HEO	Highly Elliptical Orbit
+HW	Hardware
+I&T	Integration and Test
+I2C              Inter-Integrated Circuit
+IARU           International Amateur Radio Union
+IAW             In Accordance With
+IC	Integrated Circuit
+ICD             Interface Control Document
+ICR             Improved Command Receiver
+ID                Identification; iDentifier
+IDE	Integrated Development Environment
+IGRF	International Geomagnetic Ref. Field
+IHU	Internal HouseKeeping Unit (OBC)
+IMD             Inter-Modulation Distortion
+IMU	Inertial Measurement Unit (ADCS)
+I/O               Input / Output
+IR	Infrared (radiation)
+IRT	Independent Review Team
+ISS	International Space Station
+IT                Information Technology 
+ITAR           International Traffic in Arms Regulations
+ITU              International Telecommunications Union
+IV&V	Independent Validation & Verification
+KSC	Kennedy Space Center
+LDO		    Low Drop Out (regulator)
+LED		    Light Emitting Diode
+LEO		    Low Earth Orbit
+LEP		    Low Energy Proton (Radiation)
+LIHU            Legacy Internal Housekeeping Unit
+LNA		    Low Noise Amplifier
+LO               Local Oscillator
+LPF	Low Pass Filter
+LSP	Launch Services Program
+LT                Linear Transponder
+LTM             Linear Transponder Module
+LV	  Launch Vehicle
+LRR	  Launch Readiness Review
+mA               milli-Ampere
+MCU            MicroController Unit
+MDS            Minimum Discernable Signal
+MEFL	Maximum Expected Flight Level
+MHz            Mega Hertz
+MISO	 Master In Slave Out (SPI)
+ML	 Machine Learning
+MLI	 Multi-Layer Insulation (Thermal)
+MoI	 Moment of Inertia
+MOSI	 Master Out Slave In (SPI)
+MOU	 Memorandum of Understanding
+MPE	 Maximum Predicted Environment
+MPPT	 Maximum Power Point Tracker
+MRR            Mission Readiness Review
+MSL	 Moisture Sensitivity Level
+MSN	 Mission
+MSPSP	 Missile System Prelaunch Safety Pkg
+MT	 Magnetorquer (ADCS)
+MTBF	Mean Time Between Failure
+mW             milli-Watt
+NASA	 National Aeronautics & Space Admin.
+NASTRAN	 NASA Structural Analysis
+NCNR	 Non-Cancelable & Non-Return
+NDA            Non-Disclosure Agreement
+NF               Noise Figure/Factor
+NOAA	 National Oceanic & Atmospheric Admin.
+NRO	 National Reconnaissance Office
+NTIA	 National Telecommunications and Information Administration
+OA	 Operational Availability
+OAP	 Orbit Average Power
+OBC            On Board Computer
+ODAR	Orbital Debris Assessment Report
+OEM	Original Equipment Manufacturer
+OIP3            Output Intercept Point 3rd (Order)
+OOS	 Out Of Service
+OSP	 Orbital Space Program (NASA)
+PA	 Power Amplifier
+PC               Personal Computer
+PCB            Printed Circuit Board
+PCU	 Power Conditioning Unit (EPS)
+PD	 PhotoDiode (CSS)
+PDR            Preliminary Design Review
+PDU	 Power Distribution Unit (EPS)
+PI	 Principal Investigator (EXP)
+PID	 Proportional, Integral, Derivative (CNTRL)
+PM	 Program Manager/Management
+PMAD	 Power Management & Distribution (EPS)
+PNT	 Position, Navigation, and Timing
+PoL	 Point of Load (EPS)
+POST          Power On Self Test
+ppm             parts per million
+P-POD	 Poly-Picosatellite Orbital Deployer
+PRN	 Pseudorandom Noise
+PSD	 Power Spectral Density 
+PTH	Plated Through Hole (PCB)
+QDR	Qualification Design Review 
+QPSK	Quadrature Phase Shift Keying 
+QTH/QSH    AMSAT CubeSat Bus connectors
+RAD	Radiation
+RAM	Random Access Memory
+RBF             Remove Before Flight 
+RF               Radio Frequency
+RFI	 Radio Frequency Interference
+RFP	 Request For Proposal
+rms	 Root Mean Square
+RoT	 Rule of Thumb
+RSS	 Root Sum Square
+RSSI	 Receive Signal Strength Indicator
+R/T	 Receive/Transmit
+RT-IHU	 Radiation Tolerant IHU
+RTOS	 Real Time Operating System
+RW	 Reaction Wheel (ADCS)
+RX/TX         Receiver/Transmitter (LTM card)
+SAA	South Atlantic Anomaly
+SADA	Solar Array Drive Assembly
+SAT             Satellite; Saturated
+SAW	Solar Array Wing; Surface Acoustic Wave
+SCL	Serial Clock (I2C line)
+SDA	Serial Data (I2C line)
+SDR	Software Defined Radio
+SCR	Silicon Controller Rectifier
+SEL	Single Event Latchup (Radiation)
+SEE	Single Event Effects (Radiation)
+SEU	Single Event Upset (Radiation)
+SI	Signal Integrity; International System of Units
+SMT	Surface Mount Technology
+SN	Serial Number
+SNR	Signal to Noise Ratio
+SoC	State of Charge (EPS Btrys)
+SP	Solar Panel
+SPI               Serial Peripheral Interface
+SPL	 Sound Pressure Level
+SPSC	 Solar Panel Substitute Circuit
+SPT	 Support
+SRAM	 Static Random Access Memory
+SRF	 Self Resonant Frequency
+SRR	 System Requirements Review
+SRS	 System Requirements Specification	
+SSB	Single Side Band
+SSO	Sun-Synchronous Orbit
+SSP	SubSatellite Point (ADCS)
+SSPA	Solid State Power Amplifier
+ST	Star Tracker (ADCS)
+STD	Standard
+STEM	Science, Technology, Education, Math
+STK	Satellite/System Tool Kit (software)
+STP	Space Test Program (USSF)
+SV	Space Vehicle
+SW	Software
+SWAP-C	Size, Weight and Power – Cost
+T & O	Threshold & Objective (Requirements)
+TBD	To Be Determined/Developed
+TC	Temperature Coefficient
+TCXO	Temperature Compensated Xtal Osc.
+TDP	Technical Data Package
+TH	Through Hole (PCB)
+TID	Total Ionizing Dose (Radiation)
+TLE	Two Line Elements (tracking)
+TLM              Telemetry
+TML	 Total Mass Loss (<1% Outgassing)
+TNC	 Terminal Node Controller
+TP	 Test Plan/Procedure
+TRL	 Technology Readiness Level (1-9)
+TT&C	 Tracking, Telemetry and Control
+TVAC	 Thermal Vacuum (testing)
+UART	 Universal Asynchronous R/T
+UHF             Ultra High Frequency
+UL	 Underwriters Laboratories
+ULA	 United Launch Alliance
+USB	 Universal Serial Bus
+USML	 United States Munitions List (ITAR)
+USSF	 United States Space Force
+UTC             Coordinated Universal Time
+UV	UltraViolet
+UWB	Ultra Wide Band
+uW	Microwave
+VAFB	Vandenberg Air Force Base
+VCO	Voltage Controlled Oscillator
+VCRM	Verification Cross Ref. Matrix
+VG	VuGraph (Slide)
+VHF              Very High Frequency
+VR	 Voltage Regulator
+WOD            Whole Orbit Data
+XCVR           Transceiver
+XTAL	 Crystal
